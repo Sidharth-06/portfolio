@@ -401,22 +401,22 @@ const ScrollPortfolio = () => {
                 I'm an MCA student passionate about AI/ML, cross-platform development, and creating innovative solutions that make a real impact. I have completed a Research Associate position on an IIM-Granted Research Project, where I conducted sentiment analysis on Shark Tank India pitches using Large Language Models.
               </p>
               <p>
-                Currently pursuing my Integrated MCA at Amrita Vishwa Vidyapeetham, Mysore (CGPA: 7.76). 
+                Currently pursuing MCA with focus on AI/ML and software development. 
                 My technical expertise spans Python, Flutter, React, and machine learning frameworks like PyTorch and TensorFlow.
               </p>
               <p>
-                📍 Based in Mysore, Karnataka • MCA Student & Aspiring AI Developer
+                MCA Student & Aspiring AI Developer
               </p>
             </div>
             <div className="about-card">
               <h3>Education</h3>
               <p>
-                <strong>Amrita Vishwa Vidyapeetham, Mysore</strong><br/>
-                Integrated MCA (2021 - 2026) • CGPA: 7.76
+                <strong>Integrated MCA</strong><br/>
+                (2021 - 2026)
               </p>
               <p>
-                <strong>Carmel CMI School, Palakkad</strong><br/>
-                12th with Commerce (2020 - 2021) • 95.6%
+                <strong>12th Grade - Commerce</strong><br/>
+                (2020 - 2021)
               </p>
             </div>
             <div className="about-card">
